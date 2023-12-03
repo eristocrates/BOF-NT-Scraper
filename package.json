@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^127.0.0",
+    "p-map": "^6.0.0",
+    "puppeteer": "^21.3.8",
+    "puppeteer-core": "^21.3.8"
+  }
+}

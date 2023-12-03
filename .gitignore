@@ -1,0 +1,5 @@
+bofntscraper.ps1.bak
+node_modules
+keys.json
+OAuth.json
+.vscode/launch.json
